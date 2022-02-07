@@ -60,7 +60,7 @@ status.register(
     format_muted="",
     format="{volume_bar}",
     vertical_bar_width=1,
-    vertical_bar_glyphs=["  ", " ", ""],
+    vertical_bar_glyphs=["", "", ""],
 )
 
 status.register("shell",
